@@ -1,0 +1,2 @@
+this.Size= new System.Drawing.Size(Screen.PrimaryScreen.Bounds.Width/3*2, Screen.PrimaryScreen.Bounds.Height-100);  
+Data Source=.\sqlexpress;Initial Catalog=Cafe;Integrated Security=True
